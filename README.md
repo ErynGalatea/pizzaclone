@@ -1,2 +1,1 @@
-# pizzaclone
-practice thing
+# pizza
